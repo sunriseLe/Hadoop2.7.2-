@@ -1,0 +1,4 @@
+/usr/local/hadoop-2.7.2-src/hadoop-maven-plugins/src/main/java/org/apache/hadoop/maven/plugin/util/Exec.java
+/usr/local/hadoop-2.7.2-src/hadoop-maven-plugins/src/main/java/org/apache/hadoop/maven/plugin/versioninfo/VersionInfoMojo.java
+/usr/local/hadoop-2.7.2-src/hadoop-maven-plugins/src/main/java/org/apache/hadoop/maven/plugin/util/FileSetUtils.java
+/usr/local/hadoop-2.7.2-src/hadoop-maven-plugins/src/main/java/org/apache/hadoop/maven/plugin/protoc/ProtocMojo.java
